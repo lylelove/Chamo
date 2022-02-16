@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>茶末周刊</title>
-    <link href="https://www.lylelove.top/Chamo/feed.xml" rel="self" />
-    <link href="https://www.lylelove.top/Chamo" />
+    <link href="https://chamo.lylelove.top/feed.xml" rel="self" />
+    <link href="https://chamo.lylelove.top" />
     <updated>2022-02-16T11:06:23+08:00</updated>
     <author>
         <name>test</name>
     </author>
-    <id>https://www.lylelove.top/Chamo</id>
+    <id>https://chamo.lylelove.top</id>
 
     <entry>
         <title>茶末Vol.10：俯瞰钻石海滩</title>
         <author>
             <name>test</name>
         </author>
-        <link href="https://www.lylelove.top/Chamo/cha-mo-vol10.html"/>
-        <id>https://www.lylelove.top/Chamo/cha-mo-vol10.html</id>
+        <link href="https://chamo.lylelove.top/cha-mo-vol10.html"/>
+        <id>https://chamo.lylelove.top/cha-mo-vol10.html</id>
 
         <updated>2022-02-16T11:06:23+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.lylelove.top/Chamo/media/posts/1/bb548fa4c528f98964c84da25d41d7e3.jpg" alt="" />
+                        <img src="https://chamo.lylelove.top/media/posts/1/bb548fa4c528f98964c84da25d41d7e3.jpg" alt="" />
                      茶末，指茶叶的碎末，在制作茶叶过程中产生的副产品。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.lylelove.top/Chamo/media/posts/1/bb548fa4c528f98964c84da25d41d7e3.jpg" alt="" />
+                    <img src="https://chamo.lylelove.top/media/posts/1/bb548fa4c528f98964c84da25d41d7e3.jpg" alt="" />
                 <article class="post">
 <div class="main__right">
 <div class="post__entry">
