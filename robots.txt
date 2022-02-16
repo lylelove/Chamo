@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.lylelove.top/Chamo/sitemap.xml
