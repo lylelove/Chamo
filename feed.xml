@@ -3,30 +3,30 @@
     <title>茶末周刊</title>
     <link href="https://chamo.lylelove.top/feed.xml" rel="self" />
     <link href="https://chamo.lylelove.top" />
-    <updated>2022-02-16T11:06:23+08:00</updated>
+    <updated>2022-02-20T13:18:52+08:00</updated>
     <author>
-        <name>test</name>
+        <name>竟何</name>
     </author>
     <id>https://chamo.lylelove.top</id>
 
     <entry>
         <title>茶末Vol.10：俯瞰钻石海滩</title>
         <author>
-            <name>test</name>
+            <name>竟何</name>
         </author>
         <link href="https://chamo.lylelove.top/cha-mo-vol10.html"/>
         <id>https://chamo.lylelove.top/cha-mo-vol10.html</id>
 
-        <updated>2022-02-16T11:06:23+08:00</updated>
+        <updated>2022-02-20T13:18:52+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://chamo.lylelove.top/media/posts/1/bb548fa4c528f98964c84da25d41d7e3.jpg" alt="" />
+                        <img src="https://chamo.lylelove.top/media/posts/1/bb548fa4c528f98964c84da25d41d7e3-2.jpg" alt="" />
                      茶末，指茶叶的碎末，在制作茶叶过程中产生的副产品。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chamo.lylelove.top/media/posts/1/bb548fa4c528f98964c84da25d41d7e3.jpg" alt="" />
+                    <img src="https://chamo.lylelove.top/media/posts/1/bb548fa4c528f98964c84da25d41d7e3-2.jpg" alt="" />
                 <article class="post">
 <div class="main__right">
 <div class="post__entry">
@@ -36,7 +36,6 @@
 <hr>
 <h2 class="has-text-align-center">封面图</h2>
 <p>邻近杰古龙冰河湖的钻石沙滩是冰岛最著名的景点之一，上头布满大大小小如钻石般的冰块。(Amazing Aerial Agency/高品图像Gaopinimages)</p>
-<figure class="post__image post__image--center"><figure class="is-loaded"><img loading="lazy"  src="https://www.lylelove.top/media/posts/32/bb548fa4c528f98964c84da25d41d7e3.jpg" data-is-external-image="true"  sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/32/responsive/bb548fa4c528f98964c84da25d41d7e3-xs.jpg 300w, https://www.lylelove.top/media/posts/32/responsive/bb548fa4c528f98964c84da25d41d7e3-sm.jpg 480w, https://www.lylelove.top/media/posts/32/responsive/bb548fa4c528f98964c84da25d41d7e3-md.jpg 768w" alt="" width="2554" height="1915" loading="lazy"></figure></figure>
 <h2>工具</h2>
 <p><a href="https://github.com/napthedev/fireverse">1.fireverse</a></p>
 <p>一个用 react、typescript、firebase、tailwind 制作的聊天应用。</p>
